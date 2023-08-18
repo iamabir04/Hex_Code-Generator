@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes change{
+    from{
+        height: 35px;
+        width: 35px;
+    }
+    to{
+        height: 38px;
+        width: 38px;
+    }
+}
+
+.cloud {
+    display: flex;
+    margin: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: white;
+    padding: 15px 40px;
+    border-radius: 40px;
+
+}
+
+
+/* .cloud:hover{
+    animation: change 1s ease normal forwards;
+} */
+
+#copyBtn{
+    margin: auto;
+    padding: 0px;
+    height: fit-content;
+    width: fit-content;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+    background-color: white;
+    
+}
+
+img{
+    height: 35px;
+    width: 35px;
+}
+
+#btn{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    padding: 15px;
+    width: 100px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #78C3FB;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: #39A6F9;
+}
