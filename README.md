@@ -52,3 +52,8 @@
 <p>For any issues, questions, or suggestions, please don't hesitate to open an issue on the project's GitHub repository.<br>
 
 Experience the fun of color exploration with the Hex Code Generator website! 🎨🌈</p>
+<br>
+<br>
+
+# Screenshots
+
