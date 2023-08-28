@@ -1,21 +1,23 @@
 <h1 align="center">Hex Code Generator Website</h1> 
 <br>
-Welcome to the Hex Code Generator website! This website is built using HTML, CSS, and JavaScript, and it allows you to generate random hex codes and instantly change the background color to the generated hex code. Additionally, there's a convenient "Copy" button that lets you copy the hex code to your clipboard for easy use.
+<p> <h3>Welcome to the Hex Code Generator website!</h3>  
+ <br> This website is built using HTML, CSS, and JavaScript, and it allows you to generate random hex codes and instantly change the background color to the generated hex code. Additionally, there's a convenient "Copy" button that lets you copy the hex code to your clipboard for easy use.</p>
+<br>
 
-How to Use
-Clone the repository or download the source code to your local machine.
+## How to Use
+<ul>
+  <li>Clone the repository or download the source code to your local machine.</li>
+  <li>Open the index.html file in your web browser.</li>
+  <li>You'll be greeted with a user-friendly interface.</li>
+  <li>Click the "Generate" button to generate a random hex code.</li>
+  <li>The background color of the page will immediately change to the generated hex code.</li>
+  <li>The hex code will be displayed on the screen. To copy it to your clipboard, simply click the "Copy" button.</li>
+</ul>
 
-Open the index.html file in your web browser.
+<br>
 
-You'll be greeted with a user-friendly interface.
+## Features
 
-Click the "Generate" button to generate a random hex code.
-
-The background color of the page will immediately change to the generated hex code.
-
-The hex code will be displayed on the screen. To copy it to your clipboard, simply click the "Copy" button.
-
-Features
 Hex Code Generation: The website uses JavaScript to generate random hex codes, providing a wide range of color possibilities.
 
 Instant Color Change: As soon as a new hex code is generated, the background color of the page changes to match the generated color.
