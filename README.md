@@ -1,4 +1,5 @@
-Hex Code Generator Website Readme
+<h1 align="center">Hex Code Generator Website</h1> 
+<br>
 Welcome to the Hex Code Generator website! This website is built using HTML, CSS, and JavaScript, and it allows you to generate random hex codes and instantly change the background color to the generated hex code. Additionally, there's a convenient "Copy" button that lets you copy the hex code to your clipboard for easy use.
 
 How to Use
