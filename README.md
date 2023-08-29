@@ -58,4 +58,5 @@ Experience the fun of color exploration with the Hex Code Generator website! ðŸŽ
 # Screenshots
 ![1](https://github.com/iamabir04/Hex_Code-Generator/assets/108453813/aa93d8ff-2184-4276-879c-5a363e908a87)
 ![2](https://github.com/iamabir04/Hex_Code-Generator/assets/108453813/e1005be7-e4b9-441f-bfd5-b2cc9f201d0c)
+![3](https://github.com/iamabir04/Hex_Code-Generator/assets/108453813/2deaba8c-ee86-4142-80d7-41da10a54854)
 
