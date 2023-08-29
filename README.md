@@ -56,4 +56,5 @@ Experience the fun of color exploration with the Hex Code Generator website! ðŸŽ
 <br>
 
 # Screenshots
+![1](https://github.com/iamabir04/Hex_Code-Generator/assets/108453813/aa93d8ff-2184-4276-879c-5a363e908a87)
 
